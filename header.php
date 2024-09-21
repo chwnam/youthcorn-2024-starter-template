@@ -10,7 +10,7 @@
     <title>Starter Template · Bootstrap v5.3</title>
     <link rel="canonical" href="<?php the_permalink(); ?>">
     <link rel="stylesheet" href="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/vendor' ); ?>/css@3.css">
-    <link href="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/vendor' ); ?>/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+    <link href="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/vendor' ); ?>/bootstrap.min.css" rel="stylesheet" crossorigin="anonymous">
 
     <!-- Favicons -->
     <link rel="apple-touch-icon" href="<?php echo esc_url( get_stylesheet_directory_uri() . '/assets/vendor' ); ?>/apple-touch-icon.png" sizes="180x180">
